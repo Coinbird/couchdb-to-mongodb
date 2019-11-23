@@ -7,7 +7,7 @@ These are the dependency libraries/packages which has been used for the scripts 
 Library/Package Name | Description | Web Reference
 ---------------------|-------------|--------------
 Node.js 6.x | Node.js framework is necessary to run node scripts | [install/download](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server)
-Couchbackup | Npm package to install | [install](https://www.npmjs.com/package/couchbackup)
+Couchbackup | Npm package to install | [install](https://www.npmjs.com/package/@cloudant/couchbackup)
 MongoDB 3.4 | Mongodb where restore will happen :p | [install](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 
 ## Pre-Requisite
